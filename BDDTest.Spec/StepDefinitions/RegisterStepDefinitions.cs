@@ -40,7 +40,7 @@ namespace BDDTest.Spec.StepDefinitions
         }
 
 
-        [When(@"clicar no botão de criar conta")]
+        [When(@"clicou no botão de criar conta")]
         public void QuandoClicarNoBotaoDeLogin()
         {
             _page.SubmitForm();
